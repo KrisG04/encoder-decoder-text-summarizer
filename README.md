@@ -1,1 +1,3 @@
-# encoder-decoder-text-summarizer
+# Summarizing text 
+
+Summarizing text has been one of the hot cakes in the field of deep learning. A lot of research has been done in this discipline. Int the following approach a theoretical model for semantic-based text generalization is introduced and used in conjunction with a deep encoder-decoder architecture in order to produce a summary in generalized form. A methodology is then proposed which transforms the aforementioned generalized summary into human-readable form, retaining at the same time important informational aspects of the original text and addressing the problem of out-of-vocabulary or rare words.
